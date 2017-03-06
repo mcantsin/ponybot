@@ -25,7 +25,7 @@ git clone https://github.com/L3Dokt0r/ponybot.git
 git clone https://github.com/L3Dokt0r/ASCII-Pony.git
 mkdir scripts
 ln -s ~/.irssi/ponybot/ponybot.pl ~/.irssi/scripts/ponybot.pl
-mkdir script/autojoin
+mkdir scripts/autojoin
 ln -s ~/.irssi/ponybot/ponybot.pl ~/.irssi/scripts/autojoin/ponybot.pl
 
 ```
